@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 50
+http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 50.
+http://61.153.215.190:9901/tsfile/live/0005_1.m3u8?key=txiptv
