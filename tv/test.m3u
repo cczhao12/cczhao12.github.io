@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 50-1
+http://61.153.215.190:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 50-2
+http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 12M
+https://epg.pw/stream/80a47c3861d2ffe0e90cfd1853efb8a17b8ea72b178c31bc18021f924f577c98.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 12M
+https://epg.pw/stream/c26e274fe0616fb299e4fd25b048a15c480c989f1b8faf0c87a23ae5d8db7faa.m3u8
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1654682529",虎牙英雄联盟赛事
+https://tv.iill.top/huya/660000
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/c757e4a0c96c4b3583e40cdb0451a1e1_middle.jpg",英雄联盟赛事
+https://tv.iill.top/douyu/288016
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/117fa2e8b03b4a8080141afc4c3beffe_middle.jpg",英雄联盟赛事2
+https://tv.iill.top/douyu/424559
