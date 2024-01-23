@@ -72,14 +72,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="liaoning" tvg-logo="liaoning.png" group-title="卫视",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 
-#EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png" group-title="卫视",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-
-#EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png" group-title="卫视",兵团卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-
 #EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png" group-title="卫视",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+
+#EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png" group-title="卫视",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+
+#EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png" group-title="卫视",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 #EXTINF:-1 tvg-id="chongqing" tvg-logo="chongqing.png" group-title="卫视",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
@@ -87,23 +87,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png" group-title="卫视",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 
-#EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png" group-title="卫视",甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-
 #EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png" group-title="卫视",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 
 #EXTINF:-1 tvg-id="guangxi" tvg-logo="guangxi.png" group-title="卫视",广西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 
-#EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png" group-title="卫视",贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 tvg-id="xiamen" tvg-logo="xiamen.png" group-title="卫视",厦门卫视
+http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
 
 #EXTINF:-1 tvg-id="hebei" tvg-logo="hebei.png" group-title="卫视",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-
-#EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png" group-title="卫视",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 #EXTINF:-1 tvg-id="henan" tvg-logo="henan.png" group-title="卫视",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
@@ -114,17 +108,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png" group-title="卫视",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 
-#EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png" group-title="卫视",内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-
-#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png" group-title="卫视",宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-
-#EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png" group-title="卫视",青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-
-#EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png" group-title="卫视",山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png" group-title="卫视",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 
 #EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png" group-title="卫视",山西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
@@ -144,20 +129,35 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 #EXTINF:-1 tvg-id="travel" tvg-logo="travel.png" group-title="卫视",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 
-#EXTINF:-1 tvg-id="xiamen" tvg-logo="xiamen.png" group-title="卫视",厦门卫视
-http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png" group-title="卫视",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 
-#EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png" group-title="卫视",新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-
-#EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png" group-title="卫视",西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png" group-title="卫视",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 
 #EXTINF:-1 tvg-id="yanbian" tvg-logo="yanbian.png" group-title="卫视",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
+#EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png" group-title="卫视",新疆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+
+#EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png" group-title="卫视",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+
 #EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png" group-title="卫视",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+
+#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png" group-title="卫视",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+
+#EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png" group-title="卫视",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+
+#EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png" group-title="卫视",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+
+#EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png" group-title="卫视",兵团卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
 #EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png" group-title="其他",CETV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
