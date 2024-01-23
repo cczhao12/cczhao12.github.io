@@ -3,3 +3,4 @@
 # https://github.com/fanmingming/live/tree/main/tv/m3u
 # https://github.com/Meroser/IPTV
 # https://github.com/lizongying/my-tv/releases
+# https://github.com/BurningC4/Chinese-IPTV
