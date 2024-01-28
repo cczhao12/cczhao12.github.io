@@ -104,6 +104,8 @@ http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
+#EXTINF:-1 group-title="吉林地方台" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
+http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
 #EXTINF:-1 group-title="吉林地方台" tvg-id="吉林都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512051004301.jpg",吉林都市频道
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 #EXTINF:-1 group-title="吉林地方台" tvg-id="吉林生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512050943990.jpg",吉林生活频道
@@ -112,14 +114,6 @@ http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 #EXTINF:-1 group-title="吉林地方台" tvg-id="吉林乡村频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512050832362.jpg",吉林乡村频道
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
-#EXTINF:-1 group-title="吉林地方台" tvg-id="吉林公共新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512051101900.jpg",吉林公共新闻频道
-http://stream1.jlntv.cn/ggpd/playlist.m3u8
-#EXTINF:-1 group-title="吉林地方台" tvg-id="吉林电视7频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512051152236.jpg",吉林电视7频道
-http://stream1.jlntv.cn/fzpd/playlist.m3u8
-#EXTINF:-1 group-title="吉林地方台" tvg-id="东北戏曲频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512051330172.jpg",东北戏曲频道
-http://stream1.jlntv.cn/dbxq/playlist.m3u8
-#EXTINF:-1 group-title="吉林地方台" tvg-id="延边卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/162de1a70b0fd0924285f87d70ff8c2c.jpg",延边卫视
-http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 #EXTINF:-1 group-title="吉林地方台" tvg-id="延边一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/b46df47da4ad3be4c585d53affd029da.jpg",延边一套新闻综合频道
 https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
 #EXTINF:-1 group-title="吉林地方台" tvg-id="延边二套汉语综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1021/34e5586e08864b4033141ed7b2d63e15.jpg",延边二套汉语综合频道
