@@ -160,7 +160,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
 #EXTINF:-1 group-title="吉林地方台" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8;http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 
 #EXTINF:-1 group-title="吉林地方台" tvg-id="吉林都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512051004301.jpg",吉林都市频道
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
