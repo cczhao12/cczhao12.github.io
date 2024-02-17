@@ -390,7 +390,7 @@ http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-36
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-37
-http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+http://[2409:8087:1a01:df::4027]:80/PLTV/88888888/224/3221225914/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-38
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-39
