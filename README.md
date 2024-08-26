@@ -5,3 +5,4 @@
 # https://github.com/tansuotv/IPTVindex/tree/main/tv
 # https://github.com/lizongying/my-tv/releases
 # https://github.com/BurningC4/Chinese-IPTV
+# https://github.com/sbwml/luci-app-alist/releases
