@@ -1,0 +1,173 @@
+#EXTINF:-1 tvg-id="cctv1" group-title="央视",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv2" group-title="央视",CCTV-2 财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv3" group-title="央视",CCTV-3 综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv4" group-title="央视",CCTV-4 中文国际
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5" group-title="央视",CCTV-5 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus" group-title="央视",CCTV-5+ 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv6" group-title="央视",CCTV-6 电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv7" group-title="央视",CCTV-7 国防军事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv8" group-title="央视",CCTV-8 电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+
+#EXTINF:-1 tvg-id="cctvjilu" group-title="央视",CCTV-9 纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv10" group-title="央视",CCTV-10 科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv11" group-title="央视",CCTV-11 戏曲
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv12" group-title="央视",CCTV-12 社会与法
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv13" group-title="央视",CCTV-13 新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-1 tvg-id="cctvchild" group-title="央视",CCTV-14 少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv15" group-title="央视",CCTV-15 音乐
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv16" group-title="央视",CCTV-16 奥林匹克
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv17" group-title="央视",CCTV-17 农业农村
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+#EXTINF:-1 tvg-id="jilin" group-title="地方",吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+
+#EXTINF:-1 tvg-id="btv1" group-title="地方",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+
+#EXTINF:-1 tvg-id="liaoning" group-title="地方",辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+
+#EXTINF:-1 tvg-id="zhejiang" group-title="地方",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+
+#EXTINF:-1 tvg-id="dongfang" group-title="地方",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+
+#EXTINF:-1 tvg-id="heilongjiang" group-title="地方",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+
+#EXTINF:-1 tvg-id="jiangsu" group-title="地方",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+
+#EXTINF:-1 tvg-id="hunan" group-title="地方",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+
+#EXTINF:-1 tvg-id="anhui" group-title="地方",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+
+#EXTINF:-1 tvg-id="shenzhen" group-title="地方",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+
+#EXTINF:-1 tvg-id="sichuan" group-title="地方",四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+
+#EXTINF:-1 tvg-id="tianjin" group-title="地方",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+
+#EXTINF:-1 tvg-id="shandong" group-title="地方",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+
+#EXTINF:-1 tvg-id="shan1xi" group-title="地方",山西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+
+#EXTINF:-1 tvg-id="shan3xi" group-title="地方",陕西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+
+#EXTINF:-1 tvg-id="chongqing" group-title="地方",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+
+#EXTINF:-1 tvg-id="dongnan" group-title="地方",东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+
+#EXTINF:-1 tvg-id="gansu" group-title="地方",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+
+#EXTINF:-1 tvg-id="guangdong" group-title="地方",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+
+#EXTINF:-1 tvg-id="guangxi" group-title="地方",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+
+#EXTINF:-1 tvg-id="guizhou" group-title="地方",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+
+#EXTINF:-1 tvg-id="hebei" group-title="地方",河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+
+#EXTINF:-1 tvg-id="henan" group-title="地方",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+
+#EXTINF:-1 tvg-id="hubei" group-title="地方",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+
+#EXTINF:-1 tvg-id="jiangxi" group-title="地方",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+
+#EXTINF:-1 tvg-id="neimenggu" group-title="地方",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+
+#EXTINF:-1 tvg-id="ningxia" group-title="地方",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+
+#EXTINF:-1 tvg-id="qinghai" group-title="地方",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+
+#EXTINF:-1 tvg-id="sdetv" group-title="地方",山东教育电视台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+
+#EXTINF:-1 tvg-id="travel" group-title="地方",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1 tvg-id="xinjiang" group-title="地方",新疆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+
+#EXTINF:-1 tvg-id="xizang" group-title="地方",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+
+#EXTINF:-1 tvg-id="yanbian" group-title="地方",延边卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+
+#EXTINF:-1 tvg-id="yunnan" group-title="地方",云南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+
+#EXTINF:-1 tvg-id="bingtuan" group-title="地方",兵团卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+
+#EXTINF:-1 tvg-id="btvchild" group-title="地方",卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+
+#EXTINF:-1 tvg-id="btvjishi" group-title="地方",BTV纪实
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv1" group-title="地方",CETV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv2" group-title="地方",CETV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv4" group-title="地方",CETV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
