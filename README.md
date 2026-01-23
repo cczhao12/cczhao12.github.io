@@ -3,3 +3,4 @@
 # https://github.com/OpenListTeam/OpenList/releases
 # https://github.com/xiaye13579/BBLL
 # https://github.com/YanG-1989/m3u
+# https://github.com/byJoey/cfnew/releases
